@@ -15,16 +15,16 @@
     "@liveblocks/react": "^2.15.1",
     "@liveblocks/react-ui": "^2.15.1",
     "@types/node": "22.10.6",
-    "@types/react-dom": "18.3.5",
+    "@types/react-dom": "19.0.3",
     "autoprefixer": "^10.4.17",
     "next": "^15.0.0",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
     "react-error-boundary": "^5.0.0",
     "tldraw": "^3.0.2"
   },
   "devDependencies": {
-    "@types/react": "^18.3.3",
+    "@types/react": "^19.0.0",
     "prettier": "^3.3.2",
     "typescript": "^5.4.5"
   }
